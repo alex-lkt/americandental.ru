@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"/en/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About", 
+		"/en/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Services", 
+		"/en/services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"All on 4", 
+		"/en/all-on-4/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"All on 6", 
+		"/en/all-on-6/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Teeth for 1 day", 
+		"/en/teeth-for-1-day/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Zygomatic implants", 
+		"/en/zygomatic-implants/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Price", 
+		"/en/price/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contacts", 
+		"/en/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

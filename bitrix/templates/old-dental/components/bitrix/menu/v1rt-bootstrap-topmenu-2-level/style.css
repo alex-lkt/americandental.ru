@@ -1,0 +1,21 @@
+.js-topmenu-button {background: #f19c2c;border: 0;color: #fff;width: 100%;text-align: center;padding: 10px 20px;font-weight: bold;}
+.js-topmenu-button svg {color:#fff;}
+
+.mm-listitem>a, .mm-listitem>span {text-overflow: unset; white-space: unset;}
+#js-topmenu-mmenu svg {display:none;}
+
+@media (min-width:992px)
+{
+	.topmenu {width:100%;background:none;border-top:1px solid #e3e4e4;}
+	.topmenu ul {list-style-type: none;padding: 0;margin: 0;display: flex;margin-left:-30px;margin-right:-30px;}
+	.topmenu ul.root-item {position: absolute;z-index: 5;display:none;}
+	.topmenu .js-item-hover {position: relative;}
+	
+	.topmenu ul>li {margin: 23px 30px;}	
+	.topmenu ul li a {position: relative;font-size: 1.2rem;text-decoration: none;line-height: 1;color: #0095e5;text-align: center;font-weight: bold;}
+	.topmenu ul li a:hover {background: #fbaf4c;}
+
+	.topmenu ul li .root-item a {padding: 15px; color: #f19c2c; border: 1px solid #c4c2c2; border-top: 0; background: #fff; width: 250px; font-size: 0.9rem;text-align:left;}
+	.topmenu ul li .root-item a:hover {background:#f9f9f9;}
+	.topmenu ul li a svg {color: #fff;margin-left: 0.5rem;vertical-align: middle;font-size: 0.7rem !important;}
+}	

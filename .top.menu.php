@@ -1,0 +1,81 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"https://americandental.ru/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"/uslugi/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"All on 4", 
+		"/all-on-4/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"All on 6", 
+		"/all-on-6/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Зубы за 1 день", 
+		"/zuby-za-1-den/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Скуловая имплантация", 
+		"/skulovaya-implantaciya-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Цены", 
+		"/price/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"/articles/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О враче", 
+		"/soyfer-vladimir-valerevich-otzyvy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Спец. предложение", 
+		"/promo/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

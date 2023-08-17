@@ -1,0 +1,92 @@
+.simple-test-start {
+    position: fixed;
+    font-size: 12px;
+    font-weight: bold;
+    left: 0;
+    bottom: 0;
+    width: 100%;    
+    background-color: #d34085 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    z-index: 100;
+    text-transform: uppercase;
+    padding: 20px !important;
+}
+
+.simple-test p {
+	font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0 20px;
+}
+
+.simple-test ul {
+	margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.simple-test ul li {
+
+}
+
+.simple-test ul li button {
+    display: block;
+    background-color: #d34085;
+    color: #fff;
+    width: 100%;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 0;
+    cursor: pointer;
+}
+
+.simple-test ul li button:hover {
+	opacity: .8;
+}
+
+.simple-test-annoying {
+	max-width: 400px;
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.simple-test-annoying img {
+    max-width: 100%;
+}
+
+.simple-test-annoying .simple-test-annoying__starter {
+    border-radius: 100px;
+    background-color: #d34085;
+}
+
+.simple-test-annoying__starter:hover {
+    opacity: .85;
+    background-color: #d34085;
+}
+
+nav.bc ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav.bc ul li {
+    display: flex;
+    align-items: center;
+}
+nav.bc ul li .svg-inline--fa {
+    margin: 0 10px;
+}
+
+@media screen and (min-width: 992px) {
+    .simple-test-start { 
+        border-radius: 5px;
+        left: 50px;
+        bottom: 50px;
+        font-size: 14px;
+        max-width: 280px;
+
+    }
+}

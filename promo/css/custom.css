@@ -1,0 +1,291 @@
+/* price-box */
+.services-box__title {
+    color: #000000;
+    font-size: 45px;
+    font-family: 'Adexe.ru', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    text-align: center;
+    padding: 30px 0 0 0;
+}
+.services-box__title span {
+    color: rgb(5, 102, 223);
+    font-weight: 700;
+}
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.t396__artboard,
+.services-box .t396__artboard {
+    height: auto;
+}
+.t396__artboard.services-box {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Adexe.ru', Arial, sans-serif;
+    padding-bottom: 20px;
+}
+.t396__artboard .services-box__item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 48%;
+    border-radius: 10px;
+    font-family: 'Adexe.ru', Arial, sans-serif;
+    line-height: 1.55;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.1);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #f5f4f4;
+}
+.t396__artboard .services-box__header-bg {
+    background-image: linear-gradient(90deg, rgba(58,100,218,1) 0%, rgba(120,152,246,1) 100%);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    border-radius: 10px 10px 0 0;
+}
+.t396__artboard .services-box__header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 15px;
+    height: 150px;
+    justify-content: space-between;
+}
+.t396__artboard .services-box__header-title {
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Adexe.ru', Arial, sans-serif;
+    line-height: 1.25;
+    font-weight: 700;
+    position: relative;
+}
+.t396__artboard .services-box__header-img-box {
+    position: relative;
+}
+.t396__artboard .services-box__header-img-box img {
+    object-fit: cover;
+}
+.t396__artboard .services-box__content {
+    padding: 0 15px 20px 15px;
+}
+
+.services-box__consult {
+    padding: 15px 0 !important;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: #7696f0;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+}
+
+.t396__artboard .services-box__list {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.t396__artboard .services-box__list li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+.t396__artboard .services-box__list li:not(:last-child) {
+    border-bottom: 1px solid #dbdbdb;
+}
+.t396__artboard .services-box__list-shape {
+    background-image: url("../images/li2.png");
+    background-repeat: no-repeat;
+    width: 8px;
+    height: 8px;
+}
+.t396__artboard .services-box__list-item {
+    margin-left: 12px;
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.t396__artboard .services-box__item-cost {
+    font-weight: 600;
+    line-height: 1.12;
+    width: 38%;
+}
+.t396__artboard .services-box__item-cost p {
+    font-size: 16px;
+}
+.t396__artboard .services-box__content-cost-box,
+.t396__artboard .services-box__content-cost-box2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.t396__artboard .services-box__content-cost-box2 {
+    justify-content: flex-start;
+}
+.t396__artboard .services-box__cost-text {
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+.t396__artboard .services-box__cost-cost {
+    font-size: 24px;
+    line-height: 1.55;
+    font-weight: 600;
+    text-align: center;
+}
+.services-box__cost-cost p {
+    font-size: 31px;
+    margin: 5px;
+}
+.services-box__cost-cost del,
+.t396__artboard .services-box__item-cost del {
+    display: block;
+    color: #878787;
+}
+.services-box__cost-cost,
+.services-box__item-cost {
+    color: #FF0000;
+}
+.services-box__item-cost p {
+    color: #FF0000;
+    margin: 5px 0;
+}
+#rec454276601 .t396__artboard {
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.services-box__content-cost-box .services-box__cost-text {
+    font-size: 18px;
+}
+.services-box__content-cost-box .services-box__cost-cost {
+    line-height: 1.15;
+    font-size: 18px;
+}
+
+.marquiz-pops,
+.marquiz-pops a,
+.marquiz-pops a .marquiz-pops__content-title,
+.marquiz-pops a .marquiz-pops__content-text,
+.marquiz-pops a .marquiz-pops__bonus,
+.marquiz-pops__content-title,
+.marquiz-pops__content-text {
+    font-family: 'Adexe.ru' !Important;
+}
+
+.services-logo-title {
+    font-size: 24px;
+    color: #5880ef;
+}
+
+.services-box__content-cost-box2 {
+    position: relative;
+    background-color: #7696f0;
+    padding: 15px;
+    height: 58px;
+    margin-bottom: 20px;
+}
+.services-box__content-cost-box2 .services-box__cost-text {
+    color: #fff;
+}
+.services-box__cost-box-img {
+    width: 100px;
+    position: absolute;
+    right: -10px;
+    bottom: -10px;
+}
+.services-box__cost-box-img img {
+    min-width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.services-box__item-desc {
+    color: #7696f0;
+}
+
+.services-box__inner-text {
+    font-weight: 600;
+}
+.services-box__inner-img {
+    width: 64px;
+    height: 44px;
+}
+.services-box__inner-img {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+.services-box__list-desc li {
+    justify-content: space-between;
+    border-bottom: 1px solid #dbdbdb;
+}
+.services-box__desc-text {
+    margin: 0 auto;
+    padding: 5px 15px;
+    background-color: #7696f0;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+}
+
+@media screen and (max-width: 1200px) {
+    .services-box .t396__artboard {
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 959px) {
+    .t396__artboard.container {
+        flex-direction: column;
+    }
+    .t396__artboard .services-box__item {
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+    #rec454276601 .t396__artboard {
+        height: auto !important;
+    }
+    .services-box__title {
+        font-size: 39px;
+        line-height: 1.35;
+    }
+    .services-box__title span {
+        display: block;
+    }
+}
+@media screen and (max-width: 639px) {
+    .services-box__title {
+        font-size: 32px;
+        line-height: 1.35;
+        padding-bottom: 0;
+    }
+    .services-box__cost-cost {
+
+    }
+}
+@media screen and (max-width: 479px) {
+    .services-box__title {
+        font-size: 22px;
+    }
+    .container {
+        padding: 20px;
+    }
+    .t396__artboard .services-box__content-cost-box {
+        flex-direction: column;
+    }
+}
+
+
+

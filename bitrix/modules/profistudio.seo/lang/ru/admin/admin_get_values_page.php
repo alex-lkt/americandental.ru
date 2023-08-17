@@ -1,0 +1,5 @@
+<?
+$MESS["PROFISTUDIO_SEO_GENERATE_ERROR"] = 'Ошибка';
+$MESS["PROFISTUDIO_SEO_GENERATE_ERROR_ACCESS_DENIED"] = 'Доступ запрещен';
+$MESS["PROFISTUDIO_SEO_GENERATE_ERROR_SESSION_HAS_EXPIRED"] = 'Сессия истекла. Перезагрузьте страницу.';
+?>

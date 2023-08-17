@@ -1,0 +1,3 @@
+.v1rt-form-feedback textarea {height:155px;}
+.v1rt-form-feedback input[type="text"],.v1rt-form-feedback textarea {width: 100%;margin-bottom:0.5rem;}
+.v1rt-form-feedback .captcha {margin-bottom:0.5rem;}

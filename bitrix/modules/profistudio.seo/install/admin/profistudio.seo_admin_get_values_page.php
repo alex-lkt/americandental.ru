@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/profistudio.seo/admin/admin_get_values_page.php");?>

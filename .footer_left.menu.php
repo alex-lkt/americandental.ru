@@ -1,0 +1,116 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Имплантация", 
+		"/implantaciya-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Синус-лифтинг", 
+		"/sinus-lifting/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ортодонтия", 
+		"/ortodontiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Детская стоматология", 
+		"/detskaya-stomatologiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пародонтология", 
+		"/periodontology/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Травмы", 
+		"/travmy-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Хирургия", 
+		"/khirurgiya-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Протезирование", 
+		"/protezirovanie-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Эндодонтия", 
+		"/endodontiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Реставрации", 
+		"/restavratsii-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Виниры", 
+		"/viniry/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Костная пластика", 
+		"/kostnaya-plastika/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отбеливание Brite Smile", 
+		"/otbelivanie-brite-smile/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гигиена, профилактика и чистка зубов", 
+		"/gigiena-profilaktika-i-chistka-zubov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Протезирование керамическими коронками", 
+		"/protezirovanie-keramicheskimi-koronkami/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ортогнатическая хирургия", 
+		"/ortognaticheskaya-khirurgiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
