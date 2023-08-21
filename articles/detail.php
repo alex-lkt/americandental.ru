@@ -2,6 +2,11 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("");
 ?><?$pageArray = array("/articles/obshchie-cherty-all-on-4-i-all-on-6/", "/articles/chem-otlichaetsya-protezirovanie-zubov/", "/articles/implantatsiya-vsye-na-chetyryekh/");
+
+if ($APPLICATION->GetCurPage() == '/articles/chto-predstavlyaet-soboy-skulovaya-implantatsiya-zubov/') {
+	$APPLICATION->SetPageProperty('canonical', '/skulovaya-implantaciya-zubov/');
+}
+
 if(!in_array($APPLICATION->GetCurPage(), $pageArray)):?> 
 
 <div class="dzen-block" style="margin-top:30px;">
@@ -67,8 +72,8 @@ if(!in_array($APPLICATION->GetCurPage(), $pageArray)):?>
 			1 => "",
 		),
 		"SET_BROWSER_TITLE" => "Y",
-		"SET_CANONICAL_URL" => "Y",
-"DETAIL_SET_CANONICAL_URL" => "Y",
+		"SET_CANONICAL_URL" => "N",
+		"DETAIL_SET_CANONICAL_URL" => "N",
 		"SET_LAST_MODIFIED" => "N",
 		"SET_META_DESCRIPTION" => "Y",
 		"SET_META_KEYWORDS" => "N",

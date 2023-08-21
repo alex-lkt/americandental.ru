@@ -54,7 +54,7 @@ return array (
         'host' => 'localhost',
         'database' => 'gonzo65_adental',
         'login' => 'gonzo65_adental',
-        'password' => 'RdouG9Q&',
+        'password' => 'OvQEuL9%',
         'options' => 2,
       ),
     ),

@@ -4,7 +4,7 @@ define("DBPersistent", false);
 $DBType = "mysql";
 $DBHost = "localhost";
 $DBLogin = "gonzo65_adental";
-$DBPassword = "RdouG9Q&";
+$DBPassword = "OvQEuL9%";
 $DBName = "gonzo65_adental";
 $DBDebug = false;
 $DBDebugToFile = false;
