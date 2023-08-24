@@ -127,9 +127,9 @@
 	<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/slick-1.8.1/slick.min.js" defer></script>
 	<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/wow.min.js" defer></script>
 	<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/scripts.js" defer></script>
-	<!-- RedConnect -->
-	<!-- <script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"	src="https://web.redhelper.ru/service/main.js?c=americandental"></script> -->
-	<!--/RedConnect -->
+	
+    <script src="//code.jivosite.com/widget.js" data-jv-id="dAA5IEtOor" async></script>
+    
 <script type='text/javascript'>
 var _ctreq = function(data) {
     var sid = '36590', nid = '14';

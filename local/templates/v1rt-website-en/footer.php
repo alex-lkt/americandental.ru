@@ -1,6 +1,4 @@
-<?if($APPLICATION->GetCurPage() != "/en/contacts/" && $APPLICATION->GetCurPage() != "/en/"): ?>
-<?$APPLICATION->IncludeFile($APPLICATION->GetTemplatePath("include-areas/inc.form-map.php"), array(), array("MODE" => "html"));?>
-<?endif; //getcurpage?> 
+ 
 					</div>
 				</div>
 			</div>
@@ -85,6 +83,16 @@
 				false
 			);?>
 		</div>
+
+
+
+        <script src="<?=SITE_TEMPLATE_PATH;?>/css-js/fontawesome-5.0.6/js/fontawesome-all.min.js" defer></script>
+        <script src="<?=SITE_TEMPLATE_PATH;?>/css-js/bootstrap-4.0.0-dist/js/bootstrap.min.js" defer></script>
+		<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/fancybox3/jquery.fancybox.min.js" defer></script>
+		<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/mmenu/jquery.mmenu.js" defer></script>
+		<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/slick-1.8.1/slick.min.js" defer></script>  
+		<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/scripts.js" defer></script> 
+
 
 		<!-- Rating Mail.ru counter -->
 		<script type="text/javascript">

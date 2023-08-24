@@ -21,7 +21,7 @@
     <?//$APPLICATION->SetAdditionalCSS("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&amp;subset=cyrillic");?>
     <?$APPLICATION->SetAdditionalCSS("https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700&display=swap&subset=cyrillic,cyrillic-ext,latin-ext");?>
 	<script src="<?=SITE_TEMPLATE_PATH;?>/css-js/jquery.min.js"></script>
-	<script src="//code.jivosite.com/widget.js" data-jv-id="dAA5IEtOor" async></script>
+	
 
 
     <?$APPLICATION->ShowCSS();?>
@@ -29,20 +29,8 @@
 	<?$APPLICATION->ShowHeadStrings()?>
 	<?$APPLICATION->ShowHeadScripts()?>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-	<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T4GHDNV');</script>
-<!-- End Google Tag Manager -->
-
+   
+	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121915568-26"></script>
 	<script>
@@ -63,10 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </head>
 
   <body>
-	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4GHDNV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+	
   <div id="page-wrap">
 <?$APPLICATION->ShowPanel();?>
 <header>

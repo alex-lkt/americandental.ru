@@ -2,9 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("American dental center, dental implantation in one day");
 $APPLICATION->SetPageProperty("description", "American dental center - dental implantation in one day in Moscow. Low prices, quality assurance. Lomonosovsky ave., 29 K.2; Call +7 (495) 774-55-50");
-?>
-
-<section class="container" style="text-align: center;margin-top:50px;margin-bottom: 50px;">
+?><section class="container" style="text-align: center;margin-top:50px;margin-bottom: 50px;">
   <h1>American dental center, all dental services in Moscow</h1>
 </section>
 
@@ -13,7 +11,7 @@ $APPLICATION->SetPageProperty("description", "American dental center - dental im
 		<div class="row align-items-center">
 			<div class="col-12 col-md-6">
 				<div class="index__happy-img wow fadeInLeft">
- <img src="/bitrix/templates/v1rt-website/images/happy.jpg" alt="happy" title="happy">
+ <img alt="happy" src="/bitrix/templates/v1rt-website/images/happy_01.jpg" title="happy">
 				</div>
 			</div>
 			<div class="col-12 col-md-6">
@@ -34,28 +32,28 @@ $APPLICATION->SetPageProperty("description", "American dental center - dental im
 		<h2 class="wow fadeInRight">Basic Services</h2>
 		<div class="row">
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/implants/" class="wow fadeInDown"> <img src="/upload/medialibrary/f91/f917f6e1fea7123274e9c5aeed1012a7.jpg" alt="Implants" title="Implants"> <h2 class="name">Implants</h2> </a>
+ <a href="/en/services/implants/" class="wow fadeInDown"> <img alt="Implants" src="/bitrix/templates/v1rt-website/images/tooth-001.jpg" title="Implants"> <h2 class="name">Implants</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/prosthetics-with-ceramic-crowns/" class="wow fadeInUp"> <img src="/upload/medialibrary/d23/d238bf3d9ae9f4bf24af08eb00622d51.jpg" alt="Prosthetics with ceramic crowns" title="Prosthetics with ceramic crowns"> <h2 class="name">Prosthetics with ceramic crowns</h2> </a>
+ <a href="/en/services/prosthetics-with-ceramic-crowns/" class="wow fadeInUp"> <img alt="Prosthetics with ceramic crowns" src="/bitrix/templates/v1rt-website/images/tooth-002.jpg" title="Prosthetics with ceramic crowns"> <h2 class="name">Prosthetics with ceramic crowns</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/crowns-bridges/" class="wow fadeInDown"> <img src="/upload/medialibrary/df5/df580ffa829d805b898fa675bba9b6f5.jpg" alt="Crowns & Bridges" title="Crowns & Bridges"> <h2 class="name">Crowns & Bridges</h2> </a>
+ <a href="/en/services/crowns-bridges/" class="wow fadeInDown"> <img alt="Crowns &amp; Bridges" src="/bitrix/templates/v1rt-website/images/tooth-003.jpg" title="Crowns &amp; Bridges"> <h2 class="name">Crowns &amp; Bridges</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/veneers/" class="wow fadeInUp"> <img src="/upload/medialibrary/4d3/4d36d795005c19f5045f3c808f7565ba.jpg" alt="Veneers" title="Veneers"> <h2 class="name">Veneers</h2> </a>
+ <a href="/en/services/veneers/" class="wow fadeInUp"> <img alt="Veneers" src="/bitrix/templates/v1rt-website/images/tooth-004.jpg" title="Veneers"> <h2 class="name">Veneers</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/pedodontics/" class="wow fadeInDown"> <img src="/upload/medialibrary/51b/51b746997c889d64670add09144662ff.jpg" alt="Pedodontics" title="Pedodontics"> <h2 class="name">Pedodontics</h2> </a>
+ <a href="/en/services/pedodontics/" class="wow fadeInDown"> <img alt="Pedodontics" src="/bitrix/templates/v1rt-website/images/tooth-005.jpg" title="Pedodontics"> <h2 class="name">Pedodontics</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/hygiene/" class="wow fadeInUp"> <img src="/upload/medialibrary/024/0243b6c6966674231fb09ec88fa5a9ac.jpg" alt="Hygiene" title="Hygiene"> <h2 class="name">Hygiene</h2> </a>
+ <a href="/en/services/hygiene/" class="wow fadeInUp"> <img alt="Hygiene" src="/bitrix/templates/v1rt-website/images/tooth-006.jpg" title="Hygiene"> <h2 class="name">Hygiene</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/orthodontics/" class="wow fadeInDown"> <img src="/upload/medialibrary/bcf/bcf11f3e5f9b95a47cfe41cd12847353.jpeg" alt="Orthodontics" title="Orthodontics"> <h2 class="name">Orthodontics</h2> </a>
+ <a href="/en/services/orthodontics/" class="wow fadeInDown"> <img alt="Orthodontics" src="/bitrix/templates/v1rt-website/images/tooth-007.jpeg" title="Orthodontics"> <h2 class="name">Orthodontics</h2> </a>
 			</div>
 			<div class="col-sm-4 col-md-3">
- <a href="/en/services/restorations/" class="wow fadeInUp"> <img src="/upload/medialibrary/8a7/8a750a6e82b8e4d020d90d23960f2125.jpg" alt="Restorations" title="Restorations"> <h2 class="name">Restorations</h2> </a>
+ <a href="/en/services/restorations/" class="wow fadeInUp"> <img alt="Restorations" src="/bitrix/templates/v1rt-website/images/tooth-008.jpg" title="Restorations"> <h2 class="name">Restorations</h2> </a>
 			</div>
 		</div>
 	</div>
@@ -66,22 +64,19 @@ $APPLICATION->SetPageProperty("description", "American dental center - dental im
 			<div class="index__zapis-form">
 				<h2>Sign up for a free appointment</h2>
 				 <?$APPLICATION->IncludeComponent(
-	"v1rt:callback", 
-	"index__callback", 
-	array(
+	"v1rt:callback",
+	"index__callback",
+	Array(
 		"COMPONENT_TEMPLATE" => "index__callback",
 		"EMAIL_TO" => "info@americandental.ru",
-		"EVENT_MESSAGE_ID" => array(
-			0 => "10",
-		),
+		"EVENT_MESSAGE_ID" => array(0=>"10",),
 		"USE_CAPTCHA" => "N"
-	),
-	false
+	)
 );?>
 			</div>
 			<div class="index__zapis-info">
 				<div class="img-wrap">
- <img src="/bitrix/templates/v1rt-website/images/index-image.jpg" alt="40 minutes" title="40 minutes">
+ <img alt="40 minutes" src="/bitrix/templates/v1rt-website/images/index-image1.jpg" title="40 minutes">
 				</div>
 				<div>
 					<p>

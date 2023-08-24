@@ -26,23 +26,11 @@
 		<?Asset::getInstance()->addCss( 'https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700&display=swap&subset=cyrillic,cyrillic-ext,latin-ext');?>
 
 		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/jquery.min.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/fontawesome-5.0.6/js/fontawesome-all.min.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/bootstrap-4.0.0-dist/js/bootstrap.min.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/fancybox3/jquery.fancybox.min.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/mmenu/jquery.mmenu.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/slick-1.8.1/slick.min.js');?>
-		<?Asset::getInstance()->addJs( SITE_TEMPLATE_PATH.'/css-js/scripts.js');?>
+		
 
-		<script src="//code.jivosite.com/widget.js" data-jv-id="dAA5IEtOor" async></script>
+		
 
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-T4GHDNV');</script>
-		<!-- End Google Tag Manager -->
-		<!-- Global site tag (gtag.js) - Google Analytics -->
+				<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-3N7VXJJ33X"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
@@ -54,10 +42,6 @@
 	</head>
 
 	<body>
-		<!-- Google Tag Manager (noscript) -->
-		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4GHDNV"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<!-- End Google Tag Manager (noscript) -->
 		<?$APPLICATION->ShowPanel();?>
 		<?/*
 		<div id="page-wrap">
